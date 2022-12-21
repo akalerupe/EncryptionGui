@@ -1,1 +1,1 @@
-Simple encryptio and decryption script (symmetric keys)
+Simple encryption and decryption script (symmetric keys)
