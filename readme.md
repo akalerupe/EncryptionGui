@@ -1,0 +1,1 @@
+Simple encryptio and decryption script (symmetric keys)
